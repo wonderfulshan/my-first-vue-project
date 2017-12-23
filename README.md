@@ -1,7 +1,11 @@
-# my-vue-project
-
-> A Vue.js project
-
+```bash
+#首先使用脚手架初始化的项目
+#其中使用了vue-router、vuex、vue-date-picker组件
+#摒弃vue-resource 用axios发送请求
+#mock.js 用来模拟数据
+#使用了lodash工具中的_.remove和_.map方法
+```
+#效果展示
 ## Build Setup
 
 ``` bash
