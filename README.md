@@ -11,10 +11,11 @@
 ```
 
 ### 效果展示
-
-
-
-
+![1](https://raw.githubusercontent.com/wonderfulshan/my-first-vue-project/master/src/assets/result/1.PNG)
+![2](https://raw.githubusercontent.com/wonderfulshan/my-first-vue-project/master/src/assets/result/2.PNG)
+![3](https://raw.githubusercontent.com/wonderfulshan/my-first-vue-project/master/src/assets/result/3.PNG)
+![4](https://raw.githubusercontent.com/wonderfulshan/my-first-vue-project/master/src/assets/result/4.PNG)
+![5](https://raw.githubusercontent.com/wonderfulshan/my-first-vue-project/master/src/assets/result/5.PNG)
 ## Build Setup
 
 ``` bash
